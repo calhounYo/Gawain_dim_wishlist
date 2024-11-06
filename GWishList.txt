@@ -437,6 +437,8 @@ dimwishlist:item=2826850739&perks=839105230,1885400500,3619207468,2319119708
 //SEASON : ECHOES
 
 //PATRON OF LOST CAUSES
+//notes:pve
+
 
 //PERFECT PARADOX
 //notes:pve; Can get 100 handling and 100 reload speed with plugist and trench barrel, so smallbore and corkscrew rifling is selectable. Tactical mag has more reload speed and stability than append mag.
